@@ -1,0 +1,61 @@
+html,
+body {
+    background: url(depositphotos_157923524-stock-photo-table-tennis-rackets.jpg) no-repeat center center fixed ;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.buffer {
+    height: 10rem;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 0px 4px 3px #841400,
+             0px 8px 13px #841400,
+             0px 18px 23px #841400;
+    margin-top: 150px;
+}
+
+h2 {
+    font-size: 3rem;
+    color: #fff;
+    text-shadow: 0px 4px 3px #841400,
+             0px 8px 13px #841400,
+             0px 18px 23px #841400;
+    margin-bottom: 125px;
+}
+
+hr {
+    margin: 20px auto;
+    color: #841400;
+    border: 3px solid #841400;
+    max-width: 65px;
+    opacity: .7;  
+}
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+  }
+  
+  .btn-primary {
+    background-color: #841400;
+    border-color: #841400;
+    --bs-btn-hover-bg: #841;
+    --bs-btn-hover-border-color: #841; 
+  }
+  
+  .btn-primary:hover {
+    background-color: #841;
+    border-color: #841;
+    border-width: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-xl {
+    padding: 1rem 2rem; 
+  }
