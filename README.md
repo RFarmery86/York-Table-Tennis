@@ -6,6 +6,8 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... despite living in the UK, big fan of NFL and the Green Bay Packers.
 
+- Things I need to do next... add full home page and link from landing page, and comment my code.
+
 <!---
 RFarmery86/RFarmery86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
